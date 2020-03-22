@@ -1,4 +1,4 @@
-This project is using nodejs, So to run the project we have to install nodejs in our counputer
+This project is using nodejs, So to run the project we have to install nodejs in our computer
 then we can follow below steps:
 
 Steps to see the result :
